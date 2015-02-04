@@ -1,8 +1,8 @@
 {
   "name": "popcorn",
   "description": "Mozilla's HTML5 video and media library for the open web",
-  "homepage": "https://github.com/santihbc/meteor-popcorn-js",
-  "author": "Santi Herrero <santihbc@gmail.com>",
-  "version": "0.1.0",
-  "git": "https://github.com/santihbc/meteor-popcorn-js.git"
+  "homepage": "https://github.com/japina/meteor-popcorn-js",
+  "author": "Bostjan Jerko <bostjan@japina.eu>",
+  "version": "0.1.1",
+  "git": "https://github.com/japina/meteor-popcorn-js.git"
 }
